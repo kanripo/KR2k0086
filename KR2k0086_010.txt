@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 西湖遊覽志
-#+DATE: 2019-03-29 20:57:08.950350
+#+DATE: 2019-03-29 20:57:09.310788
 #+PROPERTY: ID KR2k0086
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR2k0086_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -138,7 +138,7 @@
 ¶
 　　飛來峰界乎靈隠天竺兩山之間蓋支龍之秀演者¶
 髙不踰數十丈而怪石森立青蒼玉削若駭豹蹲獅¶
-筆卓劍植衡從&KR0367;仰益玩益竒上多異朩不假土壤¶
+筆卓劍植衡從偃仰益玩益竒上多異朩不假土壤¶
 根生石外矯若龍蛇鬱鬱然丹葩翠蕤䝉羃聨絡冬¶
 <pb:KR2k0086_WYG_010-7b>¶
 夏常青烟雨雪月四景尤佳其下巖扄窈窕屈曲通¶

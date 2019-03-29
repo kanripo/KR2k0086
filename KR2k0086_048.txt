@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 西湖遊覽志
-#+DATE: 2019-03-29 20:57:09.199428
+#+DATE: 2019-03-29 20:57:09.561451
 #+PROPERTY: ID KR2k0086
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 48
 <pb:KR2k0086_WYG_048-1a>¶
 　　欽定四庫全書¶
@@ -287,7 +287,7 @@
 ¶
 <pb:KR2k0086_WYG_048-15a>¶
 　　杜䳌花諸山皆有之而宋時菩提寺南漪堂獨盛蘇子¶
-瞻詩云南漪杜䳌天下無披香殿上紅&KR0586;毺鶴林兵¶
+瞻詩云南漪杜䳌天下無披香殿上紅氍毺鶴林兵¶
 火真一夢不歸閬苑歸西湖¶
 ¶
 　　海棠有二種紅者貼梗粉紅者垂絲錢唐縣舊治有吳¶
